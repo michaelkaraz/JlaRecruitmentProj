@@ -298,6 +298,7 @@
   <ItemGroup>
     <None Include="Properties\PublishProfiles\file.pubxml" />
     <None Include="Properties\PublishProfiles\file2.pubxml" />
+    <Content Include="Views\Shared\_Careers.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
